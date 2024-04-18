@@ -10,6 +10,6 @@ if ($gon < 0){ //se ($gon a soma de $a + $b) for menor que 0 {no caso seria nega
     return $gon; // se nao vai retornar a soma normal 
         }
 }
-$tudo = ichigo (-541, 10); //chamo o nome da minha função e declaro um parametro para as variaveis declaradas.
+$tudo = ichigo (-542, 10); //chamo o nome da minha função e declaro um parametro para as variaveis declaradas.
 
 echo "resultado é: " . $tudo; 
